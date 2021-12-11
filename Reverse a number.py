@@ -6,3 +6,10 @@ while n!=0:
     rv=(rv*10)+rm
     n=n//10
 print(rv)
+
+"""
+n=12345
+n=str(n)
+n=n[::-1]
+print(n)
+"""
