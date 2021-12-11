@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="110eb690-0369-4286-b69e-122c24c93a24" name="Changes" comment="codechef DEC long challnage..&#10;problem:- list of list">
-      <change afterPath="$PROJECT_DIR$/String are anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scratch_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
